@@ -1,2 +1,2 @@
 # VHR-BirdPose
-Pytorch implements of VHR-BirdPose
+**ALL THE CODE WILL BE RELEASED AFTER THE PAPER ACCEPTED.**
