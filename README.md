@@ -24,7 +24,7 @@ Change current diectory to `$AK_PE$/code/hrnet`, run `python tools/train.py --cf
 
 ## Pretrained
 
-The pretrained weight can be download from [Google Drive]() | [Baidu Netdisk]()
+The pretrained weight can be download from [Google Drive](https://drive.google.com/drive/folders/1JDKFRAstdCTpYm-gvtXY-ulvmsGAsVbm?usp=sharing) | [Baidu Netdisk (password=xxpa)](https://pan.baidu.com/s/16e6JlUWPXXUAAyD2sbC6cA?pwd=xxpa)
 
 ## Citing
 
